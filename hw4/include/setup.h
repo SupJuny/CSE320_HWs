@@ -1,0 +1,1 @@
+int set_up(int rm_deet);
